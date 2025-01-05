@@ -45,7 +45,4 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
     color: #333;
-    overflow-y: auto;
-    white-space: pre-wrap; /* Para quebras de linha automáticas */
 }
-

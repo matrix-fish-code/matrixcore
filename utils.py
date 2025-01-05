@@ -26,4 +26,3 @@ def save_interaction_to_s3(prompt, response):
         Body=json.dumps(interaction)
     )
     print("Interação salva no S3 com sucesso!")
-

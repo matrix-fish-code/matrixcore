@@ -34,4 +34,3 @@ document.getElementById('chat-form').addEventListener('submit', function(event) 
         responseDiv.innerHTML = 'Erro ao processar o prompt';
     });
 });
-
