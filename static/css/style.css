@@ -1,4 +1,4 @@
-	body {
+body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     padding: 20px;
@@ -45,7 +45,7 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
     color: #333;
-    max-height: 400px; /* Altura máxima da área de resposta */
-    overflow-y: auto; /* Permite rolar a resposta para visualizar o conteúdo completo */
+    overflow-y: auto;
+    white-space: pre-wrap; /* Para quebras de linha automáticas */
 }
 
